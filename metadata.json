@@ -1,0 +1,6 @@
+{
+  "name": "Learnify - Student Learning Platform",
+  "description": "Learn smarter. Build your future. A modern, professional student learning platform featuring interactive lessons, quizzes, assignments, and real-time progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
